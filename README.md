@@ -36,28 +36,28 @@ Welcome to Nexus Ecommerce, your go-to destination for a seamless and engaging o
 - Add an information section at the bottom of the website to collect details of potential customers.
 - Utilize a backend stack of your choice to securely store and manage the collected customer details.
 
-###Visual Elements
+### Visual Elements
 - Use high-quality photos related to computers and artificial intelligence.
 - Ensure visuals align with the theme of a software company.
 
-###Social Media Integration
+### Social Media Integration
 - Include social media buttons or links to Techy Software Company's social profiles.
 - Enhance website connectivity with other online platforms.
 
-###Interactive Features
+### Interactive Features
 - Integrate subtle interactive features like hover effects, transitions, or animations.
 - Ensure these features contribute positively to overall aesthetics and usability.
 
-###Content Sections
+### Content Sections
 - Divide content into clear and concise sections (Home, About Us, Products/Services, Contact Us, etc.).
 - Ensure each section provides relevant information and maintains a cohesive design.
 
-###Free Hosting Service
+### Free Hosting Service
 - Earn additional credit points by hosting the website using any free hosting service like Netlify, GitHub Pages, or a similar platform.
 
-###SEO Optimization
+### SEO Optimization
 - Implement basic SEO practices such as meta tags, proper heading structures, and descriptive image alt texts to enhance the website's search engine visibility.
 
-###Feedback Form
+### Feedback Form
 - Include a feedback form to gather input from users.
 - Use a suitable backend stack to handle form submissions and store feedback data.
